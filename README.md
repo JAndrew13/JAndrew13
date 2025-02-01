@@ -1,16 +1,28 @@
 ### Hi there 👋 I'm Jake!
 
-I am a Goldsmith, 3D Artist, Tinkerer, and general *Jake* of all trades. 
+Hi there 👋 I'm Jake!
+I am a Software Engineer, Goldsmith, 3D Artist, and general *Jake of all trades*.
 
-For the last 10 years - I have been working in and around the Jewelry industry as a Goldsmith, Stone cutter, CAD Designer, and Business Owner. While I love phyisical nature and rich history of this industry - I have always been a futurist. I love all things technology, and am drawn to the limitless possibilty of code.  Thats why in 2021, I closed the doors of my Jewelry company to pursue a career in Full-Stack Development.
+Since 2021, I have been building web, mobile, and desktop applications for a variety of clients and personal projects. 
+Currently, my expertise lies in C#, SQL, TypeScript, JavaScript, Vue/Vuetify, and Azure. 
+My background in precision craftsmanship has translated into an obsession with clean, scalable, and efficient code, followed up by visually appetizing and digestable documentation.
 
-Since that day, I have devoted myself to this goal. Starting with a foundation in Python, I have expanded to Javascript, HTML, CSS, and most recently C#. I have completed 2 full length bootcamps, created a dozen or so projects, and have continued to build my skill set day by day. 
+Prior to this, I worked in the jewelry industry For over a decade as a Goldsmith, Stone Cutter, CAD Designer, and Business Owner.
+While I loved the rich history and hands-on nature of this work, I've always been a futurist at heart—drawn to the limitless possibilities of technology. 
+Looking to the future, I hope to have the opportunity to take a deeper dive into some of these languages, because mastery and diversity are equal necessities.
+Regardless of where the journey leads, I’m just happy to be driving on the digital highway! 🤖
 
-Looking to the future, I hope to have the opportunity to take a deeper dive into some of these languages, because mastery and diversity are equal necessities. While I do enjoy using Python and Javascript, I'm also curious about experimenting with interactive web-3D objects using WebGL and React-three-fiber, as well as creating new Web3 type applications with Flutter and Solidity. Regardless of the path I end up taking, Im just happy to be driving on the digital highway! 🤖
-
+I'm always looking for ways to push my skills and expand my expertise. My Interests at the moment: (and in no particular order)
+- Creating interactive 3D experiences WebGL and React-three-fiber for
+- Building Web3 financial applications with Solidity.
+- Experimenting with embedded systems, automation, and AI.
+- Integrating Electronics, circuitry, Networking, and Smart devices into _things_ (my 1980 Puch Magnum, ping pong tables, Home Wifi, etc.)
+- 3D Modeling and Printing for my W40K Army (Admech) and DnD campaigns
+- Pixel Art, Animation, and Monogame Development
+- Fine Carpentry, Furniture, Construction, and Home & Garden renovations
 ### Let's talk!
 
-🚧[My Portfolio](https://www.jakebrunner.com)
+🚧[My Portfolio](https://www.jakebrunner.com) <-_re_development in progress
 🖋️[Jbbrunner10@gmail.com](https://mail.google.com/a/google.com/?view=cm&fs=1&to=jbbrunner10@gmail.com)
 🔗[Linkedin](https://www.linkedin.com/in/jake-brunner-21760522b/)
 
