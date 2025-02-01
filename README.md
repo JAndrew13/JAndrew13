@@ -12,6 +12,10 @@ While I loved the rich history and hands-on nature of this work, I've always bee
 Looking to the future, I hope to have the opportunity to take a deeper dive into some of these languages, because mastery and diversity are equal necessities.
 Regardless of where the journey leads, I’m just happy to be driving on the digital highway! 🤖
 
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandrew13&langs_count=10&theme=prussian" />
+
 I'm always looking for ways to push my skills and expand my expertise. My Interests at the moment: (and in no particular order)
 - Creating interactive 3D experiences WebGL and React-three-fiber
 - Building Web3 financial applications with Solidity.
@@ -20,19 +24,20 @@ I'm always looking for ways to push my skills and expand my expertise. My Intere
 - 3D Modeling and Printing for my W40K Army (Admech) and DnD campaigns
 - Pixel Art, Animation, and Monogame Development
 - Fine Carpentry, Furniture, Construction, and Home & Garden renovations
-### Let's talk!
 
+
+
+### Let's talk!
 🚧[My Portfolio](https://www.jakebrunner.com) <-_re_development in progress
 
-🖋️[Jbbrunner10@gmail.com](https://mail.google.com/a/google.com/?view=cm&fs=1&to=jbbrunner10@gmail.com)
+📬[Jbbrunner10@gmail.com](https://mail.google.com/a/google.com/?view=cm&fs=1&to=jbbrunner10@gmail.com)
+
 🔗[Linkedin](https://www.linkedin.com/in/jake-brunner-21760522b/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndrew13&theme=blue-green" />
 
-<details>
-<summary> My Current Stack <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" /> </summary>
-  
-### Core Languages
+
+
+### 🫀 Core Languages
 ![CSharp](https://img.shields.io/badge/csharp-512BD4.svg?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&&logoColor=black)
@@ -43,7 +48,7 @@ I'm always looking for ways to push my skills and expand my expertise. My Intere
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?logo=Dart&logoColor=white)
 
 ---
-### Front-End Frameworks and Libraries
+### 🖌️ Front-End Frameworks and Libraries
 ![blazor](https://img.shields.io/badge/blazor-512BD4.svg?logo=blazor&logoColor=white)
 ![Vue](https://img.shields.io/badge/vuetify-1867C0.svg?logo=vuetify&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/vuedotjs-4FC08D.svg?logo=vuedotjs&logoColor=white)
