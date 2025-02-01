@@ -23,6 +23,7 @@ I'm always looking for ways to push my skills and expand my expertise. My Intere
 ### Let's talk!
 
 🚧[My Portfolio](https://www.jakebrunner.com) <-_re_development in progress
+
 🖋️[Jbbrunner10@gmail.com](https://mail.google.com/a/google.com/?view=cm&fs=1&to=jbbrunner10@gmail.com)
 🔗[Linkedin](https://www.linkedin.com/in/jake-brunner-21760522b/)
 
