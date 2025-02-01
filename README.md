@@ -13,7 +13,7 @@ Looking to the future, I hope to have the opportunity to take a deeper dive into
 Regardless of where the journey leads, I’m just happy to be driving on the digital highway! 🤖
 
 I'm always looking for ways to push my skills and expand my expertise. My Interests at the moment: (and in no particular order)
-- Creating interactive 3D experiences WebGL and React-three-fiber for
+- Creating interactive 3D experiences WebGL and React-three-fiber
 - Building Web3 financial applications with Solidity.
 - Experimenting with embedded systems, automation, and AI.
 - Integrating Electronics, circuitry, Networking, and Smart devices into _things_ (my 1980 Puch Magnum, ping pong tables, Home Wifi, etc.)
